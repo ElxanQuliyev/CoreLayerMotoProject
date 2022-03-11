@@ -67,3 +67,5 @@ C:\Users\Elxan Quliyev\source\repos\MotoK310\Web\obj\Debug\net6.0\Web.dll
 C:\Users\Elxan Quliyev\source\repos\MotoK310\Web\obj\Debug\net6.0\ref\Web.dll
 C:\Users\Elxan Quliyev\source\repos\MotoK310\Web\obj\Debug\net6.0\Web.pdb
 C:\Users\Elxan Quliyev\source\repos\MotoK310\Web\obj\Debug\net6.0\Web.genruntimeconfig.cache
+C:\Users\Elxan Quliyev\source\repos\MotoK310\Web\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Elxan Quliyev\source\repos\MotoK310\Web\bin\Debug\net6.0\DataAccess.pdb

@@ -9,3 +9,4 @@ C:\Users\Elxan Quliyev\source\repos\MotoK310\Services\obj\Debug\net6.0\Services.
 C:\Users\Elxan Quliyev\source\repos\MotoK310\Services\obj\Debug\net6.0\Services.dll
 C:\Users\Elxan Quliyev\source\repos\MotoK310\Services\obj\Debug\net6.0\ref\Services.dll
 C:\Users\Elxan Quliyev\source\repos\MotoK310\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\Elxan Quliyev\source\repos\MotoK310\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
